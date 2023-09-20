@@ -1,9 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "firstName": "Alex",
+      "lastName": "Smith",
+      "email": "alex@gmail.com",
+      "photo": "../home",
+      "verification_code": "alexsmith",
+      "id": "010920930940934",
+      "password": "asdkjasjdsad",
+      "passwordConfirm": "asdkjasjdsad",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Harvey",
+      "email": "sara@gmail.com",
+      "photo": "../home",
+      "verification_code": "saraharvey",
+      "id": "0109209309409123",
+      "password": "asdkjasjdsad",
+      "passwordConfirm": "asdkjasjdsad",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T14:03:04.780Z"
+    },
+    {
+      "firstName": "Hunter",
+      "lastName": "James",
+      "email": "hunter@gmail.com",
+      "photo": "../home",
+      "verification_code": "hunterjames",
+      "id": "0109209309423989283",
+      "password": "asdkjasjdsad",
+      "passwordConfirm": "asdkjasjdsad",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:49:48.447Z"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@gmail.com",
+      "photo": "../home",
+      "verification_code": "johndoe",
+      "id": "010920930940937",
+      "password": "asdkjasjdsad",
+      "passwordConfirm": "asdkjasjdsad",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-01-01 00:00:00"
+    }
+  ]
 }
