@@ -64,6 +64,31 @@
       "location": "Jampang",
       "created_at": "2023-01-01 00:00:00",
       "updated_at": "2023-09-18T13:52:05.591Z"
+    },
+    {
+      "id": "010920930940929398",
+      "projectName": "Ashoka View",
+      "location": "Cidokom",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": "010920930940934",
+      "email": "alex@gmail.com",
+      "tanggalTerima": "2023-01-01",
+      "namaCalonKonsumen": "Alex Smith",
+      "Domisili": "Bogor",
+      "noTelepon": "08123456789",
+      "Proyek": "010920930940934",
+      "salesMarketing": "sales",
+      "marketingSupervisor": "John",
+      "sumberInformasi": "iklan",
+      "status": "prospek",
+      "catatan": "tidak ada catatan",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
     }
   ]
 }
