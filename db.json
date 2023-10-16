@@ -73,6 +73,20 @@
       "updated_at": "2023-09-18T13:52:05.591Z"
     }
   ],
+  "homeTypes": [
+    {
+      "id": 9883,
+      "type": "Oslo",
+      "blok": "A",
+      "no": "10",
+      "luasTanah": "64",
+      "luasBangunan": "36",
+      "proyek": "Ashoka Park",
+      "harga": "360.000.000",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    }
+  ],
   "customers": [
     {
       "id": "010920930940934",
