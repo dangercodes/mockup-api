@@ -81,8 +81,22 @@
       "no": "10",
       "luasTanah": "64",
       "luasBangunan": "36",
-      "proyek": "Ashoka Park",
-      "harga": "360.000.000",
+      "proyek": "Ashoka View",
+      "harga": 360000000,
+      "diskon": 5,
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    },
+    {
+      "id": 9884,
+      "type": "Oslo",
+      "blok": "B",
+      "no": "2",
+      "luasTanah": "64",
+      "luasBangunan": "36",
+      "proyek": "Ashoka View",
+      "harga": 350000000,
+      "diskon": 10,
       "created_at": "2023-01-01 00:00:00",
       "updated_at": "2023-09-18T13:52:05.591Z"
     }
@@ -101,6 +115,34 @@
       "sumberInformasi": "iklan",
       "status": "prospek",
       "catatan": "tidak ada catatan",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    }
+  ],
+  "reservations": [
+    {
+      "id": 187287,
+      "userId": "USR0001",
+      "nomor": "92839823998293",
+      "tanggal": "2023-10-23",
+      "nama": "Alex Jordan",
+      "alamat": "Bogor",
+      "no_ktp": "3201910292398298",
+      "NPWP": "2983298398298323",
+      "no_telepon": "085798928398",
+      "no_handphone": "087238782323",
+      "email": "alex@gmail.com",
+      "pekerjaan": "PNS",
+      "type": "Oslo",
+      "blok":"A",
+      "no": "10",
+      "diskon":5,
+      "harga_net": 360000000,
+      "pembayaran": "KPR",
+      "ktp": "../home",
+      "npwp": "../home",
+      "bukti_transfer": "../home",
+      "informasi": "iklan",
       "created_at": "2023-01-01 00:00:00",
       "updated_at": "2023-09-18T13:52:05.591Z"
     }
