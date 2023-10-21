@@ -73,6 +73,50 @@
       "updated_at": "2023-09-18T13:52:05.591Z"
     }
   ],
+  "types": [
+    {
+      "id": 298298,
+      "type": "Oslo",
+      "proyek": "Ashoka View",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    },
+    {
+      "id": 2982839,
+      "type": "Visby",
+      "proyek": "Ashoka View",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    },
+    {
+      "id": 8783743,
+      "type": "Alta",
+      "proyek": "Ashoka View",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    },
+    {
+      "id": 2323454,
+      "type": "Acumina",
+      "proyek": "Ashoka Park",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    },
+    {
+      "id": 2323455,
+      "type": "Kocinea",
+      "proyek": "Ashoka Park",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    },
+    {
+      "id": 231235,
+      "type": "Javanika",
+      "proyek": "Ashoka Park",
+      "created_at": "2023-01-01 00:00:00",
+      "updated_at": "2023-09-18T13:52:05.591Z"
+    }
+  ],
   "homeTypes": [
     {
       "id": 9883,
